@@ -16,4 +16,5 @@ function mostrarCards() {
             <button>Detalhes</button>
         </div>`;
     })
+    
 }
