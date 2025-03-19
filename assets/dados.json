@@ -1,0 +1,97 @@
+[
+    {
+        "id":1,
+        "produto":"Bolsa",
+        "descricao":"Bolsa Caroline Média Transversal Bordada Azul",
+        "preco":69.93,
+        "imagem":"https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/arieiaou/catalog/camile/azul-2.JPG"
+    },
+    {
+        "id":2,
+        "produto":"Shorts",
+        "descricao":"Shorts alfaiataria preto",
+        "preco":119.90,
+        "imagem":"https://cdn.awsli.com.br/2500x2500/2520/2520184/produto/251268445/img_7991-sen0knthgf.jpeg"
+
+    },
+    {
+        "id":3,
+        "produto":"Body",
+        "descricao":"Body feminino poliéster um ombro só com bojo moda elegante",
+        "preco":22.50,
+        "imagem":"https://a-static.mlcdn.com.br/800x560/body-feminino-poliester-um-ombro-so-com-bojo-moda-elegante-filo-modas/lojamafer/8637c46a8d0011ed9eda4201ac185019/f8630e5a255425be92e165779ce6145c.jpeg"
+
+    },
+    {
+        "id":4,
+        "produto":"Body Splash",
+        "descricao":"Body Splash Desodorante Colônia Tododia Romã e Flor de Amora 200 ml",
+        "preco":83.90,
+        "imagem":"https://cdn.awsli.com.br/600x700/2750/2750515/produto/285819306/body-splash-rom--e-flor-de-amora-2-xllvgtvivp.jpg"
+
+    },
+    {
+        "id":5,
+        "produto":"Camiseta",
+        "descricao":"Camiseta Feminina Oversized Moda Modesta Jesus Saves",
+        "preco": 25.90,
+        "imagem":"https://img.ltwebstatic.com/images3_spmp/2024/03/20/21/1710950012405d0ebe7509a95492089a66e15e48d5_thumbnail_720x.jpg"
+
+    },
+    {
+        "id":6,
+        "produto":"Calça Jeans",
+        "descricao":"Calça jeans wide leg jeans pantalona cintura alta boca larga ",
+        "preco":89.99,
+        "imagem":"https://a-static.mlcdn.com.br/800x560/calca-jeans-wide-leg-jeans-pantalona-cintura-alta-boca-larga-explosao-da-moda/explosaodamodaconfeccoesltda/66085a66c9a011ecbbb44201ac18506b/a44aaa758df09499e0d53e399e9c89cf.jpeg"
+
+    },
+    {
+        "id":7,
+        "produto":"Calça Jeans Cargo",
+        "descricao":"Calça Cargo feminina vintage streetwear",
+        "preco":109.90,
+        "imagem":"https://acdn-us.mitiendanube.com/stores/003/275/653/products/6-2accbea942292dfeb017129291618295-1024-1024.png"
+
+    },
+    {
+        "id":8,
+        "produto":"Vestido Festa",
+        "descricao":"Vestido Longo Sophie Roxo",
+        "preco":499.90,
+        "imagem":"https://ladydress.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/a/ladydress-vestido-festa-madrinha--roxo---longo_4__1.jpg"
+
+    },
+    {
+        "id":9,
+        "produto":"Vestido Longo",
+        "descricao":"vestido longo, tecido estampado de alça casual",
+        "preco":57.42,
+        "imagem":"https://down-br.img.susercontent.com/file/sg-11134201-7rdw9-m0ywhzoc5489e0"
+
+    },
+    {
+        "id":10,
+        "produto":"Vestido Tubo",
+        "descricao":"Vestido longo midi casual de festa com fenda canelado tubinho justo colado",
+        "preco": 69.90,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lu15whtyuwkgaa"
+
+    },
+    {
+        "id":11,
+        "produto":"Colar",
+        "descricao":"Colar Coração Delicado",
+        "preco": 97.80,
+        "imagem":"https://cdn.sistemawbuy.com.br/arquivos/f4e238d2f3a32b77ba76fd9e552acf67/produtos/PIO3MUA9/227feb59e661b396222fbf2f7bf7146a-635316fa78144.jpg"
+
+    },
+    {
+        "id":12,
+        "produto":"Vestido Tubo",
+        "descricao":"Brinco Coração Fio Mini Prata",
+        "preco": 67.90,
+        "imagem":"https://cdn.sistemawbuy.com.br/arquivos/f4e238d2f3a32b77ba76fd9e552acf67/produtos/FOU4QIO1/919e39a8b2ecc3846c7c5f48625ec5a8-635314ea1434e.jpeg"
+
+    }
+]
