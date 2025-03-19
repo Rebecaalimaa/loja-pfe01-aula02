@@ -13,7 +13,7 @@
 <body onload ="mostrarCards()">
     <header>
         <h1>Loja Mimimey</h1>
-        <button>Novo produto</button>
+        <button onclick="cadastro.classList.remove('oculto')">Novo produto</button>
     </header>
     <main>
     </main>
@@ -24,7 +24,7 @@
         <div class="janela">
             <div>
                 <h3>Cadastro</h3>
-                <button>X</button>
+                <button onclick="window.location.reload()">X</button>
             </div>
             <form>
                 <input type="text" name="produto" placeholder="nome do produto" required>
